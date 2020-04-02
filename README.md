@@ -38,7 +38,7 @@ Les profils  :
 
 :star: Règles d'or :star: (liste non exhaustives des règles): 
 ```
-* Chaque dépôt ``devdoc-fr/la_techno`` a une liste de issues (la file d'attente);
+* Chaque dépôt ``devdoc-fr/la_techno`` a une liste des issues (la file d'attente);
 * Choisissez une page dans la file d'attente;
 * Une page dont la traduction n'est pas finie est remise en file d'attente;
 * Traduction en français de la documentation officielle (généralement en anglais);
