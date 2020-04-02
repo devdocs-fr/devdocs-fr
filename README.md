@@ -26,7 +26,7 @@ Les profils  :
    -  🧙‍♂️ Un Admin  - ***gestion des droits et des accès***
    - 👩‍🚀 Un lead par dépôt ``devdoc-fr/la_techno``   -  ***reviewer de la traduction***
    - 👨‍💻Les contributeurs - vous dans le cas présent -  ***PR les traductions***
-- Le lead du dépôt ``devdoc-fr\la_techno`` :
+- Le lead du dépôt ``devdoc-fr/la_techno`` :
    - Gère le ``devdoc-fr/la_techno`` 
       - Liste les pages à traduire
       - Ecrit la guideline du dépôt ``devdoc-fr/la_techno`` 
