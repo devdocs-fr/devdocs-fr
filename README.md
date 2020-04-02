@@ -18,7 +18,7 @@ Bienvenue dans notre projet délirant de traduire les documentations officielles
    - ``Fork`` notre dépôt ``devdoc-fr/la_techno`` pour la technologie qui vous intéresse; choisissez : 
      - <a href="https://github.com/devdocs-fr/flutter"><img width="150" alt="flutter_logo" src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" ></a> [ https://github.com/devdocs-fr/flutter](https://github.com/devdocs-fr/flutter)
      - <a href="https://github.com/devdocs-fr/laravel"><img width="100" alt="laravel_logo" src="https://laravel.com/img/logotype.min.svg" ></a> [ https://github.com/devdocs-fr/laravel](https://github.com/devdocs-fr/laravel)
-   - Chaque dépôt dispose d'un LEAD, d'un ``README`` et des règles de gestion pour contribuer au projet. <br />
+   - Chaque dépôt dispose d'un LEAD, d'un ``README`` sous le format``readme-i18n.md`` et des règles de gestion pour contribuer au projet. <br />
 Les discussion se feront autour du projet lié au dépôt.
 
 2. Le WorkFlow <br />
