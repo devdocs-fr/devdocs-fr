@@ -5,7 +5,7 @@ Bienvenue dans notre projet délirant de traduire les documentations officielles
 
 **Née du simple constat que le manque de documentations en français peut être un frein pour les développeurs débutants et même les développeurs expérimentés francophones.**
 
-> Nous traduisons les languages de programmation en français
+> Nous traduisons les documentations des languages de programmation en français
 
 
 # Comment contribuer au projet ?
